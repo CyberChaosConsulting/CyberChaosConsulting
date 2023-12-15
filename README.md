@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberChaosConsulting
-- 👀 I’m interested in anythig related to CyberSecurity
+- 👀 I’m interested in anything related to CyberSecurity
 - 🌱 I’m currently learning how to leverage LLM to automate CyberSecurity
 - 💞️ I’m looking to collaborate on any project to help the community
 - 📫 How to reach me contact (a) this name dot com
